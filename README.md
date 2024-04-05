@@ -63,6 +63,7 @@ Please visit my Tableau Public page here in order to view the visualizations I c
 The geographic representation of happiness scores displays ladder life scores throughout the world. Red represents the lowest happiness scores and dark green represents the highest happiness scores. It appears that the lowest happiness scores are found primarily in Africa.
 
 ### Happiness Scores over Time for the Top 5 Countries (Ranked in 2024)
+The happiness scores over time for the top 5 countries (as ranked in 2024) shows that this year's top 5 countries consistently have relatively good happiness scores, although there is some fluctuation in scores. Particularly in Israel, there seem to be sharp drops and increases in happiness scores over short periods of time.
 
 ### Changes in Happiness Scores over the Past 10 Years in North America
 
