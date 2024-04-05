@@ -4,7 +4,19 @@
 
 # Explanation of Project
 
-Explanation will appear here
+The World Happiness Report is a partnership of Gallup, the Oxford Wellbeing Research Centre, the UN Sustainable Development Solutions Network, and the WHR’s Editorial Board. The report is produced under the editorial control of the WHR Editorial Board.
+
+The World Happiness Report reflects a worldwide demand for more attention to happiness and well-being as criteria for government policy. It reviews the state of happiness in the world today and shows how the science of happiness explains personal and national variations in happiness.
+
+I decided to investigate the data to determine what trends I could discover.
+
+Features
+
+1) Loading Data: Reading in two CSVs
+2) Clean and operate on the data: Merged .csv files and eliminated missing data
+3) Visualize and present the data: Tableau Dashboard
+4) Best Practices: Virtual environment and a data dictionary
+5) Interpretation of the data: Summarized at the end of this Readme
 
 
 # Data Dictionary
@@ -39,6 +51,17 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 
-After the virtual environment is created, enter “git clone” followed by the URL you copied when cloning the repository. Navigate to where you cloned the repository. Run the file “Happiness”
+After the virtual environment is created, enter “git clone” followed by the URL you copied when cloning the repository. Navigate to where you cloned the repository. Run the file “Happiness.ipynb. In order to exit the virtual environment enter "deactivate".
 
-•	To exit the virtual environment type “deactivate” in the git/terminal window.
+# Visualizations and Interpretation  
+
+Please visit my Tableau Public page here in order to view the visualizations I created for my World Happiness Report Project: https://public.tableau.com/app/profile/marianne.bush/vizzes
+Click on "World Happiness Report"
+
+### Geographic Representation of Happiness Score
+
+### Happiness Scores over Time for the Top 5 Countries (Ranked in 2024)
+
+### Changes in Happiness Scores over the Past 10 Years in North America
+
+
