@@ -8,7 +8,7 @@ The World Happiness Report is a partnership of Gallup, the Oxford Wellbeing Rese
 
 The World Happiness Report reflects a worldwide demand for more attention to happiness and well-being as criteria for government policy. It reviews the state of happiness in the world today and shows how the science of happiness explains personal and national variations in happiness.
 
-I decided to investigate the data to determine what trends I could discover.
+I decided to investigate the happiness report data to determine what trends I could discover.
 
 Features
 
