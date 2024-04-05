@@ -51,7 +51,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 
-After the virtual environment is created, enter “git clone” followed by the URL you copied when cloning the repository. Navigate to where you cloned the repository. Run the file “Happiness.ipynb. In order to exit the virtual environment enter "deactivate".
+After the virtual environment is created, enter “git clone” followed by the URL you copied when cloning the repository. Navigate to where you cloned the repository. Run the file Happiness.ipynb. In order to exit the virtual environment enter "deactivate".
 
 # Visualizations and Interpretation  
 
