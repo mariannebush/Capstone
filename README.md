@@ -66,5 +66,6 @@ The geographic representation of happiness scores displays ladder life scores th
 The happiness scores over time for the top 5 countries (as ranked in 2024) shows that this year's top 5 countries consistently have relatively good happiness scores, although there is some fluctuation in scores. Particularly in Israel, there seem to be sharp drops and increases in happiness scores over short periods of time.
 
 ### Changes in Happiness Scores over the Past 10 Years in North America
+The happiness scores in North America show that all three countries consistently have relatively good happiness scores. Mexico bottomed out in 2020/2021, but seems to have rebounded recently to higher scores. Canada and the United States have had similar drops in their happiness scores, with the United States happiness scores lower than Canadian happiness scores.
 
 
