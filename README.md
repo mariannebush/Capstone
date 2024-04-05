@@ -12,8 +12,8 @@ I decided to investigate the happiness report data to determine what trends I co
 
 Features
 
-1) Loading Data: Reading in two CSVs
-2) Clean and operate on the data: Merged .csv files and eliminated missing data
+1) Loading Data: Reading in two .xls files
+2) Clean and operate on the data: Merged .xls files and eliminated missing data
 3) Visualize and present the data: Tableau Dashboard
 4) Best Practices: Virtual environment and a data dictionary
 5) Interpretation of the data: Summarized at the end of this Readme
