@@ -32,7 +32,7 @@ In order to run my project, you will need Git and Jupyter Notebook.
 
 Open Git and enter the following commands to create a virtual environment:
 
-#### Windows
+### Windows
 
 python -m venv venv
 
@@ -40,7 +40,7 @@ source venv\Scripts\activate
 
 pip install -r requirements.txt
 
-#### Linux/Mac0S
+### Linux/Mac0S
 
 python3 -m venv venv
 
